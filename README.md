@@ -18,14 +18,6 @@ I am a B.Tech Computer Science student focused on building scalable web applicat
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-code05&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-code05&layout=compact&theme=dark" width="48%" />
-</p>
----
-
 ### 📁 Featured Projects
 
 * **[Weather App](https://github.com/Shubham-code05/weather-app)** - Real-time weather forecasting using API integration.
