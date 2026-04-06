@@ -15,3 +15,8 @@ HTML • CSS • JavaScript • Java • Git • GitHub
 
 ## Current Goal
 Become a strong developer and get internship/job.
+
+## Currently Learning
+- Java and Spring Boot
+- MERN Stack
+- Data Structures and Algorithms
