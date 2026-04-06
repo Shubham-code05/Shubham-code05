@@ -18,11 +18,10 @@ I am a B.Tech Computer Science student focused on building scalable web applicat
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shubham-code05&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-code05&layout=compact&theme=tokyonight">
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-code05&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-code05&layout=compact&theme=radical)
 ---
 
 ### 📁 Featured Projects
