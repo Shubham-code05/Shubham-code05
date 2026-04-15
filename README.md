@@ -20,10 +20,13 @@ I am a B.Tech Computer Science student focused on building scalable web applicat
 
 ### 📁 Featured Projects
 
-* **[Weather App](https://github.com/Shubham-code05/weather-app)** - Real-time weather forecasting using API integration.
-* **[Connect4 Game](https://github.com/Shubham-code05/Connect4-Game)** - A classic strategy game built with a focus on logic.
-* **[BMI Calculator](https://github.com/Shubham-code05/bmi-calculator-app)** - Simple and clean utility for health tracking.
+- [React Yoga Website](https://github.com/Shubham-code05/react-yoga-website) - Responsive React + Vite website deployed on Vercel.
 
+- [KMCLU University Website Chatbot](https://github.com/Shubham-code05/KMCLU_University_Website_Chatbot) - University chatbot project built for KMCLU website.
+
+- MERN Task Manager - Full Stack task management system using React, Node.js, Express and MongoDB.
+
+- [Weather App](https://github.com/Shubham-code05/weather-app) - Weather forecast app using API integration.
 ---
 
 ### 🌱 Currently Working On
