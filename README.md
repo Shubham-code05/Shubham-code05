@@ -15,6 +15,12 @@ I am a B.Tech Computer Science student passionate about Full Stack Web Developme
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-black?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-green?style=for-the-badge)
+![Grok API](https://img.shields.io/badge/Grok_API-purple?style=for-the-badge)
+![AI Chatbot](https://img.shields.io/badge/AI_Chatbot-red?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
 
 ---
 
