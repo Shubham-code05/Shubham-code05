@@ -1,6 +1,6 @@
-# Hi there, I'm Shubham Prajapati 👋
+# Hi there, I'm Shubham Prajapati
 
-### 👨‍💻 Full Stack Developer | Java & MERN Stack Enthusiast
+### BTech CSE Student | MERN Stack & AI Chatbot Developer | Java & DSA Enthusiast
 
 I am a B.Tech Computer Science student focused on building scalable web applications and mastering Data Structures and Algorithms. I love turning complex problems into simple, elegant code.
 
