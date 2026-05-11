@@ -2,7 +2,7 @@
 
 ### BTech CSE Student | MERN Stack & AI Chatbot Developer | Java & DSA Enthusiast
 
-I am a B.Tech Computer Science student focused on building scalable web applications and mastering Data Structures and Algorithms. I love turning complex problems into simple, elegant code.
+I am a B.Tech Computer Science student passionate about Full Stack Web Development, AI Chatbots, and modern web technologies. I enjoy building scalable applications, integrating AI systems, and solving Data Structures & Algorithms problems using Java.
 
 ---
 
