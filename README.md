@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham Prajapati
+👋, I'm Shubham Prajapati
 
 ### BTech CSE Student | MERN Stack & AI Chatbot Developer | Java & DSA Enthusiast
 
