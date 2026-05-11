@@ -12,15 +12,19 @@ I am a B.Tech Computer Science student passionate about Full Stack Web Developme
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-black?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-blue?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-green?style=for-the-badge)
 ![Grok API](https://img.shields.io/badge/Grok_API-purple?style=for-the-badge)
 ![AI Chatbot](https://img.shields.io/badge/AI_Chatbot-red?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+
 
 
 ---
