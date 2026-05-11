@@ -20,6 +20,7 @@ I am a B.Tech Computer Science student passionate about Full Stack Web Developme
 ![REST API](https://img.shields.io/badge/REST_API-green?style=for-the-badge)
 ![Grok API](https://img.shields.io/badge/Grok_API-purple?style=for-the-badge)
 ![AI Chatbot](https://img.shields.io/badge/AI_Chatbot-red?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 
 ---
